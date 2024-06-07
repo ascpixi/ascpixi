@@ -8,7 +8,7 @@
 <!-- nikospin = https://github.com/ascpixi/ascpixi/assets/44982772/e7351fe0-7b52-4521-b371-521000c07f5c -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 60vh; left: 50vw; object-fit: cover; background-size: cover!important; width: 20vw; height: 20vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://github.com/ascpixi/ascpixi/assets/44982772/e7351fe0-7b52-4521-b371-521000c07f5c');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 50vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://github.com/ascpixi/ascpixi/assets/44982772/e7351fe0-7b52-4521-b371-521000c07f5c');]{x0000}$}
 ```
 
 ```math
